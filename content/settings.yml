@@ -1,0 +1,17 @@
+---
+sidebar:
+  - icon: portfolio
+    slug: "/portfolio"
+    text: portfolio
+  - icon: activity
+    slug: "/activity"
+    text: activity
+  - icon: market
+    slug: "/market"
+    text: market
+  - icon: integration
+    slug: "/integration"
+    text: integration
+  - icon: more
+    slug: "/more"
+    text: more

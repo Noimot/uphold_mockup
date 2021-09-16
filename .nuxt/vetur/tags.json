@@ -1,0 +1,77 @@
+{
+  "Activity": {
+    "description": "Auto imported from components/Activity.vue"
+  },
+  "Balance": {
+    "description": "Auto imported from components/Balance.vue"
+  },
+  "CryptoCurrency": {
+    "description": "Auto imported from components/CryptoCurrency.vue"
+  },
+  "Currencies": {
+    "description": "Auto imported from components/Currencies.vue"
+  },
+  "Currency": {
+    "description": "Auto imported from components/Currency.vue"
+  },
+  "DashboardItems": {
+    "description": "Auto imported from components/DashboardItems.vue"
+  },
+  "IntegrationPage": {
+    "description": "Auto imported from components/IntegrationPage.vue"
+  },
+  "Market": {
+    "description": "Auto imported from components/Market.vue"
+  },
+  "Markets": {
+    "description": "Auto imported from components/Markets.vue"
+  },
+  "More": {
+    "description": "Auto imported from components/More.vue"
+  },
+  "Navigation": {
+    "description": "Auto imported from components/Navigation.vue"
+  },
+  "NavigationMobile": {
+    "description": "Auto imported from components/NavigationMobile.vue"
+  },
+  "NuxtLink": {
+    "description": "Auto imported from components/NuxtLink.vue"
+  },
+  "Portfolio": {
+    "description": "Auto imported from components/Portfolio.vue"
+  },
+  "Profile": {
+    "description": "Auto imported from components/Profile.vue"
+  },
+  "Sparklines": {
+    "description": "Auto imported from components/Sparklines.vue"
+  },
+  "Textarea": {
+    "description": "Auto imported from components/Textarea.vue"
+  },
+  "TheSidebar": {
+    "description": "Auto imported from components/TheSidebar.vue"
+  },
+  "ThirdPartyApp": {
+    "description": "Auto imported from components/ThirdPartyApp.vue"
+  },
+  "ThirdpartyAppsPage": {
+    "description": "Auto imported from components/ThirdpartyAppsPage.vue"
+  },
+  "TransactionHistory": {
+    "description": "Auto imported from components/TransactionHistory.vue"
+  },
+  "TransactionPreview": {
+    "description": "Auto imported from components/TransactionPreview.vue"
+  },
+  "Transactions": {
+    "description": "Auto imported from components/Transactions.vue"
+  },
+  "TransactionWrapper": {
+    "description": "Auto imported from components/TransactionWrapper.vue"
+  },
+  "WrapperPage": {
+    "description": "Auto imported from components/WrapperPage.vue"
+  }
+}

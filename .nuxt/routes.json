@@ -1,0 +1,43 @@
+[
+  {
+    "name": "icons-list",
+    "path": "/_icons",
+    "component": "C:\\Users\\NOIMOT\\Desktop\\k16e-capstone\\mockup\\node_modules\\@nuxtjs\\svg-sprite\\lib\\pages\\icons-list.vue",
+    "_name": "_f6aead8a"
+  },
+  {
+    "name": "activity",
+    "path": "/activity",
+    "component": "C:\\\\Users\\\\NOIMOT\\\\Desktop\\\\k16e-capstone\\\\mockup\\\\pages\\\\activity.vue",
+    "chunkName": "pages/activity",
+    "_name": "_471fbb12"
+  },
+  {
+    "name": "integration",
+    "path": "/integration",
+    "component": "C:\\\\Users\\\\NOIMOT\\\\Desktop\\\\k16e-capstone\\\\mockup\\\\pages\\\\integration.vue",
+    "chunkName": "pages/integration",
+    "_name": "_237f3da1"
+  },
+  {
+    "name": "markets",
+    "path": "/markets",
+    "component": "C:\\\\Users\\\\NOIMOT\\\\Desktop\\\\k16e-capstone\\\\mockup\\\\pages\\\\markets.vue",
+    "chunkName": "pages/markets",
+    "_name": "_7c82f484"
+  },
+  {
+    "name": "more",
+    "path": "/more",
+    "component": "C:\\\\Users\\\\NOIMOT\\\\Desktop\\\\k16e-capstone\\\\mockup\\\\pages\\\\more.vue",
+    "chunkName": "pages/more",
+    "_name": "_6bcac450"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\NOIMOT\\\\Desktop\\\\k16e-capstone\\\\mockup\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_40bde542"
+  }
+]
